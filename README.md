@@ -1,4 +1,4 @@
-# ReviewPlatform
+# reviewApp
 
 
 Review and Rediscover Hotels
